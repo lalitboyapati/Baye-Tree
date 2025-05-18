@@ -11,6 +11,6 @@ Read the full paper here: [`Q2_Machine_Learning_Paper.pdf`](paper/baye-tree_pape
 - Mushroom Dataset (UCI)
 - MNIST (Scikit-learn)
 - Buys Computer (internal demo)
-- 
+  
 ## 🧠 Methodology
 The Baye-Tree builds a traditional decision tree and integrates Naive Bayes classifiers at specific nodes. Based on a confidence threshold, the model decides whether to split further or predict using Naive Bayes. This provides a flexible framework that adapts to data complexity and feature independence.
